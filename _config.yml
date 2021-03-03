@@ -19,8 +19,8 @@ enable_smart_app_banner                   :                                     
 
 
 # Information About Yourself
-your_name                                 : Dennis Mallette                                
-your_link                                 : https://emilbaehr.com                     
+your_name                                 : ideams                                
+your_link                                 : https://ideams-mfg.com                    
 your_city                                 : Kitchener                               
 email_address                             : emil.ideams47@gmail.com
 facebook_username                         :                                           
@@ -33,10 +33,6 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
